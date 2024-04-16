@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  allowOrigins:
+    - "*"
+  bodyLimit: "10M" # MiB
+  timeout: 30 # Seconds
